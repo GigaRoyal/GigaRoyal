@@ -1,5 +1,4 @@
-<img src="https://i.imgur.com/fetnHSg.png" alt="MainScreen" />
-<h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there! I am Awish</h3>
+<h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there! I am Rayan</h3>
 <hr>
 <p>Well , Nothing Is Best Than Grabbing A Cup Of Tea And Opening The Laptop And Exploring Inside It Haha , Well Actually I'm very passionate and dedicated to my 1st project which is this. I have studied some of the lessons in html to make the skills and knowledge necessary to make a project a success. I enjoy every step of the tutorial i learn and code  ¯\_(ツ)_/¯</p>
 
