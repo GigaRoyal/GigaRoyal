@@ -7,7 +7,7 @@
 <li>I used to play tons of games, but now I don't.</li>
 <li>Am always in Pain.</li>
 <li>I don't like to socialize a lot, but I like to make new friends :></li>
-<li>⌨ My <a href="https://vibe2rayan.web.app/" target="_blank">Main Website</a> and my <a href="https://iamrayan.web.app/" target="_blank">Old Website</a>.</li>
+<li>My <a href="https://vibe2rayan.web.app/" target="_blank">Main Website</a> and my <a href="https://iamrayan.web.app/" target="_blank">Old Website</a>.</li>
 
 <br>
 
